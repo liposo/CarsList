@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cars List</string>
+    <string name="label_name">Name: </string>
+    <string name="label_address">Address: </string>
+    <string name="label_coordinates">Coordinates: </string>
+    <string name="label_engineType">Engine Type: </string>
+    <string name="label_exterior">Exterior: </string>
+    <string name="label_fuel">Fuel: </string>
+    <string name="label_interior">Interior: </string>
+    <string name="label_vin">Vin: </string>
+    <string name="tab_label_carsList">Cars</string>
+    <string name="tab_label_map">Map</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
